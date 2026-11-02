@@ -1,0 +1,4 @@
+pypdf
+requests
+scikit-learn
+numpy

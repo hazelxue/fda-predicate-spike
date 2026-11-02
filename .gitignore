@@ -1,0 +1,6 @@
+*.zip
+*.jsonl
+*.pdf
+pdfs/
+data/
+__pycache__/
