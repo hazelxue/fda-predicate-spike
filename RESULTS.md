@@ -69,4 +69,4 @@ python scripts/build_index.py <bulk.zip> index.jsonl
 python scripts/fetch_parse.py index.jsonl <pdf_dir> sample.jsonl 400
 python scripts/evaluate.py index.jsonl sample.jsonl
 ```
-Bulk file, PDFs and intermediate files are kept outside this folder (G:\oss-work\fda-spike).
+Bulk file, PDFs and intermediate files are kept outside the repository.
